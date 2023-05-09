@@ -56,7 +56,7 @@ The Keno game is a classic, jungle style. Your lucky numbers have never been so 
 
 ## Getting Started
 
-To start using BitKong.com, simply visit the website and create an account. Players are required to provide only an email address and password. Once signed up, players can deposit cryptocurrency into their secure wallet and enjoy the various games offered.
+To start using BitKong.com, simply visit the website and create an account. Players are required to provide only an email address. Once signed up, players can deposit cryptocurrency into their secure wallet and enjoy the various games offered.
 
 ## Contributing
 
