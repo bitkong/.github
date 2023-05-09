@@ -2,7 +2,7 @@
 
 Welcome to the official BitKong organization on GitHub. BitKong.com is a popular, provably fair online cryptocurrency gambling platform that specializes in providing an entertaining and engaging gaming environment. Accessible to players around the globe, BitKong offers a safe and secure gambling experience, complete with a wide variety of unique casino games and services.
 
-![BitKong](logo.png)
+![BitKong](/profile/logo.png)
 
 ## Table of Contents
 
